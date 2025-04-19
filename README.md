@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Mehulsinh Chauhan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulchauhan-07&label=Profile%20views&color=0e75b6&style=flat" alt="mehulchauhan-07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehulchauhan-07" alt="mehulchauhan-07" /></a> </p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on "Byte Forge"- online java learning platform<br><br>🌱 I’m currently learning DevOps and Docker<br><br>👨‍💻 All of my projects are available at https://mehulchauhan22.github.io/web1/index.html<br><br>💬 Ask me about: JavaScript, React, Nextjs, Node.js, and any general software questions.<br><br>📫 How to reach me mehulsinhchauhan5124@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QefDJ0Ra83eE3gvhbOLlp_ziLYRGyNv9/view?usp=drive_link<br><br>⚡ Fun fact My ability to adapt and continuously learn helps me stay up to date with the latest technologies.
 
