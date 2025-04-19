@@ -14,12 +14,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mchauhan._.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulsinhchauhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xstream_07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/29568190/mehulsinh-chauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehulcinh_54) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulsinhchauhan5124@gmail.com) 
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Jamnagar<br><br>🔭 I’m currently working on "Byte Forge"- online java learning platform<br><br>🌱 I’m currently learning DevOps and Docker<br><br>👨‍💻 All of my projects are available at https://mehulchauhan22.github.io/web1/index.html<br><br>💬 Ask me about: JavaScript, React, Nextjs, Node.js, and any general software questions.<br><br>📫 How to reach me mehulsinhchauhan5124@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QefDJ0Ra83eE3gvhbOLlp_ziLYRGyNv9/view?usp=drive_link<br><br>⚡ Fun fact My ability to adapt and continuously learn helps me stay up to date with the latest technologies.</p>
-
 ###
 
 <h3 align="left">👨‍💻 Language</h3>
