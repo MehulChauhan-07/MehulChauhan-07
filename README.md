@@ -3,16 +3,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulchauhan-07&label=Profile%20views&color=0e75b6&style=flat" alt="mehulchauhan-07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehulchauhan-07" alt="mehulchauhan-07" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehulchauhan-07" alt="mehulchauhan-07" /></a> </p> -->
 
+## 💫 About Me:
 
-# 💫 About Me:
-🔭 I’m currently working on "Byte Forge"- online java learning platform<br><br>🌱 I’m currently learning DevOps and Docker<br><br>👨‍💻 All of my projects are available at https://mehulchauhan22.github.io/web1/index.html<br><br>💬 Ask me about: JavaScript, React, Nextjs, Node.js, and any general software questions.<br><br>📫 How to reach me mehulsinhchauhan5124@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QefDJ0Ra83eE3gvhbOLlp_ziLYRGyNv9/view?usp=drive_link<br><br>⚡ Fun fact My ability to adapt and continuously learn helps me stay up to date with the latest technologies.
+- 🔭 Currently working on **Byte Forge** — an online Java learning platform
+- 🌱 Exploring **DevOps, Docker**
+- 💬 Ask me about: **JavaScript, React, Next.js, Node.js, general software questions**
+- 👨‍💻 All projects at: [My Portfolio](https://mehulchauhan22.github.io/web1/index.html)
+- 📄 Check out my resume: [View Resume](https://drive.google.com/file/d/1QefDJ0Ra83eE3gvhbOLlp_ziLYRGyNv9/view?usp=drive_link)
+- 📫 Reach me at: mehulsinhchauhan5124@gmail.com
+- ⚡Fun fact: **From farm fields to code fields**, **adaptability** and late-night creativity help me turn challenges into polished projects, while constantly leveling up for the next big opportunity. 
 
 ###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mchauhan._.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulsinhchauhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xstream_07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/29568190/mehulsinh-chauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehulcinh_54) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulsinhchauhan5124@gmail.com) 
+## 📌 Featured Projects
+
+- [Portfolio](https://github.com/mehulchauhan-07/web1) — My personal portfolio site
+
+- [Byte Forge](https://github.com/mehulchauhan-07/byte-forge) — Online Java learning platform
+
+- [Taktix](https://github.com/MehulChauhan-07/TakTix-Gaming_Platform) — Multiplayer chess & tic-tac-toe with matchmaking
+
+- [LinkShrink](https://github.com/MehulChauhan-07/LinkShrink) — Multiplayer chess & tic-tac-toe with matchmaking
+
+#
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mchauhan._.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulsinhchauhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Xstream_07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/29568190/mehulsinh-chauhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mehulcinh_54) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulsinhchauhan5124@gmail.com)
 
 ###
 
@@ -31,13 +50,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  /> -->
 </div>
 
 ###
@@ -79,13 +98,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  /> -->
 </div>
 
 ###
@@ -107,11 +126,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -121,7 +140,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" height="40" alt="tomcat logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
@@ -147,11 +166,17 @@
 ###
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=MehulChauhan-07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MehulChauhan-07&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulChauhan-07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MehulChauhan-07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- [![](https://visitcount.itsvg.in/api?id=MehulChauhan-07&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+## 🏆 Achievements
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehulchauhan-07" alt="mehulchauhan-07" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
